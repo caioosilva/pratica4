@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pratica 4</string>
+    <string-array name="perfil">
+        <item> Nome - pessoa</item>
+        <item> E-mail </item>
+        <item> Treino </item>
+        <item> Frequencia </item>
+    </string-array>
+</resources>
